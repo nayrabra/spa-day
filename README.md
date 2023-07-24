@@ -1,6 +1,6 @@
 # SPA Day
 
-O projeto SPA Day é uma demonstração do meu aprendizado em SASS, onde utilizei variáveis e funções para tornar o CSS mais legível. 
+Página fictícia de um SPA que destaca meu aprendizado em SASS, empregando variáveis e funções para melhorar a legibilidade do CSS.
 
 |:placard: Vitrine.Dev |                                    | 
 | -------------------- | -----------------------------------|
